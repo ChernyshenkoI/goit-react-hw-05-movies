@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React homework template test to start with
+      React homework template test to start with it is test deployment
     </div>
   );
 };
